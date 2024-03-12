@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.966f0e51.css",
+    "main.js": "/static/js/main.66e4884a.js",
+    "static/media/bannerimg.png": "/static/media/bannerimg.1e6cd605cc2b6bab8fdd.png",
+    "static/media/nashikMNPLogo.png": "/static/media/nashikMNPLogo.463d718f70e28038b447.png",
+    "static/media/nashikMNP.png": "/static/media/nashikMNP.35ffd0a8ee050ce6baef.png",
+    "static/media/img11.png": "/static/media/img11.573b78fa17f3e13e9c3a.png",
+    "index.html": "/index.html",
+    "main.966f0e51.css.map": "/static/css/main.966f0e51.css.map",
+    "main.66e4884a.js.map": "/static/js/main.66e4884a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.966f0e51.css",
+    "static/js/main.66e4884a.js"
+  ]
+}
